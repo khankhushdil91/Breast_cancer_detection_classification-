@@ -1,0 +1,6 @@
+pip install numpy
+pip install streamlit
+pip install Pillow==9.5.0
+pip install tensorflow==2.9
+pip install keras==2.9
+
