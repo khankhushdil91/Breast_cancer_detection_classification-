@@ -64,7 +64,8 @@ Classification Report:
    macro avg       0.82      0.80      0.80        16
 weighted avg       0.80      0.81      0.80        16
 
-![Uploading image.png…]()
+![Screenshot 2024-07-28 164406](https://github.com/user-attachments/assets/2510f83d-1110-40e8-9b4b-8bea1a55ddb4)
+
 
 
 ## Contributing
